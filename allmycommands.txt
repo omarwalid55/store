@@ -55,6 +55,10 @@ $ git commit -m "added files 1,2 and 3"
  create mode 100644 file2.txt
  create mode 100644 file3.txt
 
+
+Lenovo@Lenovo-PC MINGW64 ~/store (master)
+$ git rm file3.txt
+
 Lenovo@Lenovo-PC MINGW64 ~/store (master)
 $
 commit f95083bacf2c48c9e3578794f7b8ca7b6671a7af (HEAD -> master, origin/master)
