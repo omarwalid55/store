@@ -57,3 +57,11 @@ $ git commit -m "added files 1,2 and 3"
 
 Lenovo@Lenovo-PC MINGW64 ~/store (master)
 $
+commit f95083bacf2c48c9e3578794f7b8ca7b6671a7af (HEAD -> master, origin/master)
+Author: omarwalid55 <36336200+omarwalid55@users.noreply.github.com>
+Date:   Sun Feb 11 13:37:37 2018 +0200
+
+    Revert "deleted file3"
+
+    This reverts commit 98f6c7927088245edce383c083d7ae00e2d870d3.
+
